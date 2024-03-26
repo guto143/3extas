@@ -1,0 +1,16 @@
+Quais as tags secundárias utilizadas para estruturar a calculadora.
+clas;table criar uma lista para os elementos 
+clas;td cria uma lista para os botoes 
+clas; tr separar os itens 
+
+Quias os elementos em css foram utilizados para alinhar os elementos.
+clas;height
+clas; align-items
+clas;margin
+clas; height
+clas;text-align
+
+Qual a função criada no arquivo javascript é responsável por realizar as operações básicas onde fica indentificado as variáveis no código.
+function calculateArray(exp)
+
+link ghithub: https://github.com/guto143/3extas
